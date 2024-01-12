@@ -1,0 +1,37 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# ALURA\C# E windows forms\Alura Windows Forms #1\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
